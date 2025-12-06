@@ -1,0 +1,7 @@
+{
+  "name": "ecohab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
